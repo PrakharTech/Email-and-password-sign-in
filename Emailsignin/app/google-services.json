@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "356787937655",
+    "firebase_url": "https://emailsignin-fd3c4.firebaseio.com",
+    "project_id": "emailsignin-fd3c4",
+    "storage_bucket": "emailsignin-fd3c4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:356787937655:android:033a551135f8e33d",
+        "android_client_info": {
+          "package_name": "studio.in.prakharshuka.emailsign_in"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "356787937655-2v2mrqou1938av66f18q6hm2cg14hoch.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "studio.in.prakharshuka.emailsign_in",
+            "certificate_hash": "f462860ff0b5aa47c69fe8ce5b94f83d0071508b"
+          }
+        },
+        {
+          "client_id": "356787937655-ci0mineg7k3bp5at6naijvbp6dnmvnmt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcw3ujMuVmbiOpr0Q7MQf4je2YvpU7ms8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "356787937655-ci0mineg7k3bp5at6naijvbp6dnmvnmt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
